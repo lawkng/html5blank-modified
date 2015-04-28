@@ -1,0 +1,25 @@
+
+Require plugins:
+http://www.web2feel.com/tutorial-for-animated-scroll-loading-effects-with-animate-css-and-jquery
+bootstrap menu - https://github.com/twittem/wp-bootstrap-navwalker
+
+1. get a blank template
+http://html5blank.com/
+
+2. edit functions.php to add my own css and js
+http://stackoverflow.com/questions/18519573/adding-other-css-files-to-wp-head
+
+3. edit header.php
+
+4. edit footer.php
+
+5. edit index.php
+- main area
+
+6. insert bootstrap menu
+
+7. Add animation
+
+8. Edit wp_footer
+
+
